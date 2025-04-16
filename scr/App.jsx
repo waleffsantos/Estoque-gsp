@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Estoque de Inversores</h1>
-      <p>App base funcionando com Firebase + React + Vite</p>
+      <p>App rodando corretamente no Vercel com Vite + React</p>
     </div>
   )
 }
